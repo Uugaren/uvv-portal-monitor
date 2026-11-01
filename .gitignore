@@ -1,0 +1,11 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+data/
+downloads/
+temp_docs/
+scratch/
+debug_*.png
+calendar_page.html
