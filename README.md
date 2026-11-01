@@ -4,7 +4,7 @@ Bot que entra no portal do aluno da UVV todo dia, encontra as atividades com pra
 
 ## Por que existe
 
-Perdi uma atividade de **3 pontos** porque ela foi publicada no calendário do portal e eu não vi a tempo. O portal não manda notificação, então quem não abre o calendário todo dia perde prazo. Construí este bot para que isso não se repita.
+Perdi uma atividade de **3 pontos** porque ela foi publicada no calendário do portal e eu não vi a tempo. Construí este bot para que isso não se repita.
 
 ## O que ele faz
 
